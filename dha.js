@@ -808,7 +808,7 @@ function banChat() {
         case 'creator':
                sendKontak(from, `${owner}`, `${ownerName}`, 'Sibukk!!')
                await sleep(1000)
-               txtt =`Hai Kak..... ${pushname}\nItu Ownerku, Mau tau soal apa ya?`
+               txtt =`Hai Kak..... ${pushname}\n Tidak Semuda Itu Ferguso!`
 
                buttons = [{buttonId: '!youtube',buttonText:{displayText: 'YOUTUBE'},type:1},{buttonId:'!infoig',buttonText:{displayText:'INSTAGRAM'},type:1}]
 
@@ -846,10 +846,10 @@ dha.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 ❏ LIMIT : *${isPremium ? 'Unlimited' : `${gcount}`}*
 
 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧
-❏ NAMA : *Sherlynn-Botz*
-❏ API : @6281220670449
-❏ OWNER : *©KurrXd*
-❏ API : *@6281220670449*
+❏ NAMA : *Aiss-Bot*
+❏ API : @994405664927
+❏ OWNER : *©Rski_Jkrtns*
+❏ API : *@62856******09*
 ❏ AKTIF : *${runtime(process.uptime())}*
 ❏ BATERAI : *${baterai}%*
 ❏ PREIFIX : *『${prefix}』*
